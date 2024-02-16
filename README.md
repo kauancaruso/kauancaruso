@@ -1,9 +1,9 @@
 ### Olá! Me chamo Kauan Caruso 👋
 
 <div>
-  <a href="https://github.com/K4lopsita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4lopsita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4lopsita&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/kauancaruso">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauancaruso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauancaruso&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div> 
