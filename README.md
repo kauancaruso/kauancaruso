@@ -23,7 +23,7 @@
 
 <h3><bold>Sobre:</bold></h3>
 
-- 👨🏻‍🎓 3/4 - Análise e Desenvolvimento de Sistemas
+- 👨🏻‍🎓 4/4 - Análise e Desenvolvimento de Sistemas
 - ⚙️ Técnico em Mecatrônica
 - 🌱 Estudando Java, HTML, CSS e JS
 
