@@ -25,7 +25,7 @@
 
 - 👨🏻‍🎓 4/4 - Análise e Desenvolvimento de Sistemas
 - ⚙️ Técnico em Mecatrônica
-- 🌱 Estudando Java, HTML, CSS e JS
+- 🌱 Estudando Java, TS, JS e ChatBot(RASA)
 
   
  
